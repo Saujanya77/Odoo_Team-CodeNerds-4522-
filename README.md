@@ -11,9 +11,9 @@
 ### Team Name: CodeNerds
 
 -Saujanya Das(TL)--dassaujanya1911@gmail.com
--Mayukh Mondal--mayukhm796@gmail.com
--Arpan Chowdhury--arpanchowdhury003@gmail.com
--Sebanti Dasgupta--dasguptasebanti2003@gmail.com
+-Mayukh Mondal --mayukhm796@gmail.com
+-Arpan Chowdhury --arpanchowdhury003@gmail.com
+-Sebanti Dasgupta --dasguptasebanti2003@gmail.com
 
 ---
 
